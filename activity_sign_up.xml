@@ -114,7 +114,6 @@
                 android:layout_marginTop="1dp"
                 android:drawableEnd="@drawable/ic_baseline_vpn_key_24"
                 android:fontFamily="@font/poppinsmedium" />
-            <!--                tools:targetApi="jelly_bean" />-->
         </com.google.android.material.textfield.TextInputLayout>
 
         <ProgressBar
